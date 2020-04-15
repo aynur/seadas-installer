@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/installer/izpack-example.iml" filepath="$PROJECT_DIR$/installer/izpack-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/panels/izpack-panels.iml" filepath="$PROJECT_DIR$/panels/izpack-panels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seadas-installer.iml" filepath="$PROJECT_DIR$/seadas-installer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/the-installer.iml" filepath="$PROJECT_DIR$/the-installer.iml" />
+    </modules>
+  </component>
+</project>
